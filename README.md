@@ -1,7 +1,7 @@
 # Project Tasks Checklist
 
 ## Introduction
--  ([ ]) Introduction to Aite and Grant
+-  (`[]`) Introduction to Aite and Grant
 
 ## Features and Resources
 -  ([ ]) Features and Resources
