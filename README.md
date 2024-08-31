@@ -1,26 +1,26 @@
 # Project Tasks Checklist
 
 ## Introduction
-- [ ] Introduction to Aite and Grant
+-  ([ ]) Introduction to Aite and Grant
 
 ## Features and Resources
-- [ ] Features and Resources
+-  ([ ]) Features and Resources
 
 ## Demo
-- [ ] Sticky Notes Application Demo
+-  ([ ]) Sticky Notes Application Demo
 
 ## Technologies
-- [ ] Frontend and Backend Technologies
+-  ([ ]) Frontend and Backend Technologies
 
 ## Project Resources and Guide
-- [ ] Project Resources and Guide
+-  ([ ]) Project Resources and Guide
 
 ## Setting Up the Application
-- [ ] Setting Up React Application
+-  ([ ]) Setting Up React Application
 
 ## Notes Page Component
-- [ ] Creating Notes Page Component
-- [ ] Styling Notes Page and App
+-  ([ ]) Creating Notes Page Component
+-  ([ ]) Styling Notes Page and App
 
 ## Data and Note Cards
 - [ ] Setting Up Data and Note Cards
