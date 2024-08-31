@@ -1,0 +1,14 @@
+# Ignore all .log files
+*.log
+
+# Ignore all files in the temp directory
+/temp/
+
+# Ignore specific file
+config/settings.json
+
+# Ignore all files with .env extension
+*.env
+
+# Ignore the node_modules directory
+node_modules/
